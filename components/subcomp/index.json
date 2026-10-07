@@ -1,0 +1,35 @@
+{
+  "type": "custom-component",
+  "name": "subcomp",
+  "children": [
+    {
+      "name": "h1",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "Sub",
+          "evaluate": false
+        },
+        {
+          "name": "Button",
+          "nodeName": "bln-button",
+          "attributes": [
+            {
+              "property": "core",
+              "value": ""
+            }
+          ],
+          "classList": [],
+          "children": [],
+          "type": "core-component",
+          "expressions": []
+        }
+      ]
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}

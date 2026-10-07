@@ -1,0 +1,31 @@
+{
+  "type": "component",
+  "name": "gh",
+  "children": [
+    {
+      "name": "h1",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "Global",
+          "evaluate": false
+        }
+      ]
+    },
+    {
+      "name": "subcomp",
+      "nodeName": "subcomp",
+      "classList": [],
+      "children": [],
+      "type": "custom-component",
+      "ownerId": "6ac5adfee3c4b692ba3c70e7",
+      "ownerType": "component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}
